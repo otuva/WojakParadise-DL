@@ -7,6 +7,7 @@ Python script to easily batch download wojaks from wojakparadise.net
 git clone https://github.com/otuva/WojakParadise-DL
 cd WojakParadise-DL
 python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
