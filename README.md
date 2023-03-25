@@ -11,6 +11,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+# Usage
+
 ```
 usage: WojakParadise-DL [-h] -a ACTION [-t TYPE] [-v VALUE] [-vv] [--min MIN] [--max MAX] [--all]
 
