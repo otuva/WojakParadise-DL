@@ -1,6 +1,15 @@
 # WojakParadise-DL
 Python script to easily batch download wojaks from wojakparadise.net
 
+# Installation
+
+```
+git clone https://github.com/otuva/WojakParadise-DL
+cd WojakParadise-DL
+python -m venv venv
+pip install -r requirements.txt
+```
+
 ```
 usage: WojakParadise-DL [-h] -a ACTION [-t TYPE] [-v VALUE] [-vv] [--min MIN] [--max MAX] [--all]
 
